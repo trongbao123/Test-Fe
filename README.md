@@ -1,6 +1,6 @@
 # PHẠM TRỌNG BẢO - TEST INTERN FRONT-END
 
-### to_do_list
+### To_Do_List
 
 ## Getting Started
 
@@ -20,7 +20,7 @@
 
 Note: To run Flutter apps on Chrome browser, you need to make sure that your app is written to support the web platform. If you use Flutter native UIs specifically for mobile platforms, you need to adapt your source code to support the web platform or use compatible web UIs. And you need to follow the steps above.
 
-## feature description
+## Feature Description
 
 - Ability to add tasks and delete them
 
